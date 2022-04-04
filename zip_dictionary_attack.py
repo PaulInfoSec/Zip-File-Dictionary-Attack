@@ -1,3 +1,5 @@
+
+## Simple dictionary attack against a password protected zip file
 ## Import the zipfile library to open zipfiles in python
 
 import zipfile
